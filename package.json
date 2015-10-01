@@ -1,0 +1,27 @@
+{
+  "name": "incoming-url",
+  "version": "1.0.0",
+  "description": "Gets the incoming url for a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/incoming-url.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/incoming-url/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/incoming-url#readme",
+  "keywords": [
+    "url",
+    "incomming",
+    "location",
+    "uri",
+    "http",
+    "https"
+  ]
+}
